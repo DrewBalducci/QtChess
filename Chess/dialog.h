@@ -1,7 +1,10 @@
 #ifndef DIALOG_H
 #define DIALOG_H
 
+// Normal Includes
 #include <QDialog>
+// Project Includes
+#include "chesspiece.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
